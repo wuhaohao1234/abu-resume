@@ -1,6 +1,6 @@
 # abu-resume
 个人简历
-
+[![Build Status](https://travis-ci.org/wuhaohao1234/abu-resume.svg?branch=master)](https://travis-ci.org/wuhaohao1234/abu-resume)
 ## git commit
 
 项目集成了husky
