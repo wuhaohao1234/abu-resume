@@ -1,0 +1,29 @@
+{
+  "name": "abu-resume",
+  "version": "1.0.0",
+  "description": "个人简历",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commitmsg": "commitlint -e $GIT_PARAMS"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/abu-resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/abu-resume/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/abu-resume#readme",
+  "devDependencies": {
+    "husky": "^4.2.5"
+  }
+}

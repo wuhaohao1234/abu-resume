@@ -1,0 +1,8 @@
+language: nodejs
+
+before_script:
+  - cd abu-serve
+  - npm install
+  - npm run test
+script:
+  - npm test
