@@ -16,6 +16,8 @@ commit 规范
     chore：构建过程或辅助工具的变动
 ```
 
+travis-ci
+
 ## 前端:
 
 abu-client
