@@ -1,5 +1,9 @@
 language: nodejs
-
+node_js:
+  - "11.3.0"
+branches:
+  only:
+    - develop
 before_script:
   - cd abu-serve
   - npm install
